@@ -1,0 +1,2 @@
+# ClickableViewPager
+sample android project
